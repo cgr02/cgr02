@@ -1,4 +1,4 @@
-<h1 align="center">Carlos (Charlie) Gutierrez</h1>
+<h1 align="center">Carlos Gutierrez</h1>
 <p align="center">
   Engineering Student · Universidad Industrial de Santander · 7th semester<br>
   <sub>Data Science &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; AI</sub>
