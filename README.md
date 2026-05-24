@@ -37,22 +37,13 @@ Outside academia, exploring what else comes.
 
 ## Projects
 
-### 🔵 [Credit Risk Classification](https://github.com/cgr02/credit-risk-classification)
-`AI Course` · Binary classification  
-Predicting loan default risk from applicant financial data using supervised learning models.  
+## Projects
 
----
-
-### 🟣 [Social Media & Stress](https://github.com/cgr02/social-media-stress-regression)
-`Statistics 2` · Linear regression  
-Exploring the relationship between Instagram usage and stress indicators, built from scratch without sklearn.  
-
----
-
-### 🟠 [Deep Learning with Keras](https://github.com/cgr02/deep-learning-keras)
-`AI Course` · Classification & regression  
-Dense neural networks applied to species classification and numeric prediction problems.  
-
+| | Project | Description |
+|---|---|---|
+| 🔵 | [Credit Risk Classification](https://github.com/cgr02/credit-risk-classification) | Predicting loan default risk from applicant financial data using supervised learning models. |
+| 🟣 | [Social Media & Stress](https://github.com/cgr02/social-media-stress-regression) | Exploring the relationship between Instagram usage and stress indicators, built from scratch without sklearn. |
+| 🟠 | [Deep Learning with Keras](https://github.com/cgr02/deep-learning-keras) | Dense neural networks applied to species classification and numeric prediction problems. |
 <p align="center">
   <sub>Documenting the learning, one project at a time.</sub>
 </p>
