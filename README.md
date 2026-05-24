@@ -1,10 +1,8 @@
 <h1 align="center">Carlos (Charlie) Gutierrez</h1>
-
 <p align="center">
   Engineering Student · Universidad Industrial de Santander · 7th semester<br>
   <sub>Data Science &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; AI</sub>
 </p>
-
 <p align="center">
   <a href="https://github.com/cgr02">
     <img src="https://img.shields.io/badge/GitHub-cgr02-181717?style=flat&logo=github" />
@@ -18,17 +16,13 @@
 ---
 
 ## About
-
-I'm a 7th-semester student at UIS, focused on data science, machine learning, and AI.
-
-I enjoy building end-to-end pipelines — from raw data cleaning to model evaluation and communicating results. This repository documents my three main undergraduate projects, each tackling a different problem with a different approach.
-
-Outside academia, I'm exploring what else it comes.
+7th-semester student at UIS focused on data science, machine learning, and AI.  
+I build end-to-end pipelines — from raw data cleaning to model evaluation.  
+Outside academia, exploring what else comes.
 
 ---
 
 ## Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -43,42 +37,21 @@ Outside academia, I'm exploring what else it comes.
 
 ## Projects
 
-### Credit Risk Classification
-`AI Course` &nbsp;·&nbsp; Binary classification
-
-Kaggle dataset with ~29,000 records. Goal: predict whether a person will default on a loan.
-
-Pipeline: data cleaning → median imputation → encoding → model comparison with KFold cross-validation.
-
-**Result:** Random Forest with 70 estimators reached **92.85% accuracy** — the most stable and reliable of the three models compared (Decision Tree, Random Forest, SVM). Error rate ~6.8%, acceptable in a financial context.
-
-`pandas` `scikit-learn` `KFold` `classification_report`
+### 🔵 [Credit Risk Classification](https://github.com/cgr02/credit-risk-classification)
+`AI Course` · Binary classification  
+Predicting loan default risk from applicant financial data using supervised learning models.  
 
 ---
 
-### Social Media & Stress
-`Statistics 2` &nbsp;·&nbsp; Linear regression from scratch
-
-~399 filtered observations on Instagram usage and engagement among rural Canadian women under 35.
-
-Regression built **without sklearn**: manual implementation of SSE, R², t-stat, p-value, and residual diagnostics. Linear and non-linear models compared.
-
-**Result:** Regression with transformations revealed a clear non-linear relationship between active time on Instagram and user engagement. Time series analysis showed stable average engagement over time — no significant trend or weekly seasonality. Remaining variability corresponds to random fluctuations around the mean.
-
-`pandas` `scipy` `matplotlib` `numpy`
+### 🟣 [Social Media & Stress](https://github.com/cgr02/social-media-stress-regression)
+`Statistics 2` · Linear regression  
+Exploring the relationship between Instagram usage and stress indicators, built from scratch without sklearn.  
 
 ---
 
-### Deep Learning with Keras
-`AI Course` &nbsp;·&nbsp; Classification & regression
-
-Dense neural networks for two problems: penguin species classification and regression on flipper length and supermarket sales.
-
-Architecture: ReLU hidden layers, sigmoid/linear output, SGD optimizer. Fixed seed: `tf.random.set_seed(21)`.
-
-`TensorFlow` `Keras` `SGD` `Dense`
-
----
+### 🟠 [Deep Learning with Keras](https://github.com/cgr02/deep-learning-keras)
+`AI Course` · Classification & regression  
+Dense neural networks applied to species classification and numeric prediction problems.  
 
 <p align="center">
   <sub>Documenting the learning, one project at a time.</sub>
