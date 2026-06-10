@@ -37,8 +37,6 @@ Outside academia, exploring what else comes.
 
 ## Projects
 
-## Projects
-
 | | Project | Description |
 |---|---|---|
 | 🔵 | [Credit Risk Classification](https://github.com/cgr02/credit-risk-classification) | Predicting loan default risk from applicant financial data using supervised learning models. |
